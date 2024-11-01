@@ -1,2 +1,2 @@
 # mygitactions
-This repository is a small practice of the Github Actions CI/CD workflow.
+This repository is a small practice of the GitHub Actions CI/CD workflow.
