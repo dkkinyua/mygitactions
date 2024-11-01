@@ -1,9 +1,9 @@
-name: practice
+name: Super-Linter
 
 on: push
 
 jobs:
-  practice:
+  super-lint:
     name: Lint code base
     runs-on: ubuntu-latest
     steps:
